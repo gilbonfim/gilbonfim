@@ -15,4 +15,4 @@ else:
     print('Operação não suportada.')
 
 print(f'{n1} {ope} {n2} é igual a {res}')
-    
+print('Testando alteraçẽos')    
